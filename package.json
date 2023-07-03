@@ -1,0 +1,16 @@
+{
+  "name": "section6_eduwork",
+  "version": "1.0.0",
+  "description": "eduwork",
+  "main": "index.js",
+  "author": "Lukman",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.14.0",
+    "prettier": "^2.8.8"
+  },
+  "scripts": {
+    "cy:open" : "cypress open",
+    "cy:run" : "cypress run"
+  }
+}
